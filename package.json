@@ -1,7 +1,6 @@
 {
   "name": "amazona",
   "version": "1.0.0",
-  "description": "Demo : https://amazonaapp.herokuapp.com/",
   "main": "index.js",
   "dependencies": {
     "aws-sdk": "^2.787.0",
